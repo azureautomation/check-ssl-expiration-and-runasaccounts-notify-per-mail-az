@@ -1,0 +1,20 @@
+{
+    "Author": "bramstoopcom",
+    "ContentSize": 7770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-ssl-expiration-and-runasaccounts-notify-per-mail-az/master/check_ssl_expiry_and_runasaccounts_send_notification_per_mail.ps1",
+    "DownloadCount": 1140,
+    "Id": "Check-SSL-expiration-9d25a493",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 51,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-9-13T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook will check all certificates, within your subscription, on expiration date. It now checks for the expiry of your RunAsAccounts as well. By default it uses sendgrid for mail notifications. @bramstoopcom",
+    "Title": "Check SSL expiration and RunAsAccounts - notify per mail [Az]",
+    "UpdatedDate": "2019-9-17T00:00:00",
+    "Url": "https://github.com/azureautomation/check-ssl-expiration-and-runasaccounts-notify-per-mail-az",
+    "UserTags": "Certificate, Monitoring, Dev / Test Environments"
+}
